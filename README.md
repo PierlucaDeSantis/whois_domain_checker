@@ -1,6 +1,6 @@
 # WHOIS & DNS Recon Tool
 
-## 📌 Description
+##  Description
 This tool performs **WHOIS and DNS recon** on a given domain, providing insights about:
 - **WHOIS Information** (Registrar, Creation & Expiry Date, Name Servers, etc.)
 - **DNS Records** (A, MX, NS, TXT, CNAME, etc.)
@@ -9,7 +9,7 @@ This tool performs **WHOIS and DNS recon** on a given domain, providing insights
 
 ---
 
-## 🚀 Installation
+##  Installation
 ### **1 Clone the repository**
 ```bash
 git clone https://github.com/yourusername/whois_recon_tool.git
